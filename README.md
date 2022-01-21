@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Atacanpo
+- 👋 Hi, I’m @Atacanpoyraz
 - 👀 I’m interested in software
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
